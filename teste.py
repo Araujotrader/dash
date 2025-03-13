@@ -1,5 +1,5 @@
 import pandas as pd
-import potly
+#import potly
 
 #dados = pd.read_csv('teste.csv')
 
